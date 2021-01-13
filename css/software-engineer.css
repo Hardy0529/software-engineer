@@ -1,6 +1,6 @@
 @charset "UTF-8";
 section .mb-p, section .mb-p {
-    margin-bottom: 8px;
+    margin-bottom: 0.75rem;
     display: block;
 }
 section .mb-p:last-child ,  section .mb-p:last-child {
