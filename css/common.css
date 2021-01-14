@@ -54,10 +54,12 @@ ol, ul {
 
 .decimal-style {
     list-style: decimal !important;
+    padding-left: 22px;
 }
 
 .disc-style {
     list-style: disc !important;
+    
 }
 td {
     padding: 1.25rem;

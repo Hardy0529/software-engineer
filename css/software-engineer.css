@@ -7,9 +7,6 @@ section .mb-p:last-child ,  section .mb-p:last-child {
     margin-bottom: 0px;
 }
 
-.pl-16{
-    padding-left: 22px;
-}
 .img_center{
     margin: 0 auto;
 }
