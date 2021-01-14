@@ -17,7 +17,7 @@ section .mb-p:last-child ,  section .mb-p:last-child {
 .software-engineer_img-Mobile{
     display: none;
 }
-@media (max-width: 768px){
+@media (max-width: 767px){
     .software-engineer_img-pc{
         display: none;
     }
